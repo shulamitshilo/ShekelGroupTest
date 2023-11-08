@@ -1,0 +1,42 @@
+07/11/2023 21:25:39 - >> ERROR >> System.Data.SqlClient.SqlException - Login failed for user 'nvausr18'.
+External error code: -2146232060
+Entity: Customers (dbo.Customers), Northwind.Models.Customers
+
+
+Short Callstack:
+
+   at Northwind.Customers.ShowCustomers.Run(TextParameter ppi_CustomerID) in d:\northwindTraining\CustomerMigration\Dotnet\Northwind.Customers\ShowCustomers.cs:line 42
+   at Northwind.Views.ApplicationMdiMenu.<.ctor>b__0_0() in \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Dotnet\Northwind\Views\ApplicationMdiMenu.cs:line 80
+   at Northwind.ApplicationCore.Execute() in \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Dotnet\Northwind\ApplicationCore.cs:line 37
+   at Northwind.Views.ApplicationMdi.WndProc(Message& m) in \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Dotnet\Northwind\Views\ApplicationMdi.cs:line 27
+   at Northwind.ApplicationCore.Run() in \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Dotnet\Northwind\ApplicationCore.cs:line 27
+   at Northwind.Program.Main(String[] args) in \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Dotnet\Northwind\Program.cs:line 12
+
+Callstack:
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at ENV.Utilities.Profiler.ProfiledConnection.Open()
+   at ENV.Data.DataProvider.ConnectionManager.DecorateConnection(IDbConnection connection)
+   at ENV.Data.DataProvider.ConnectionManager.<>c__DisplayClass31_1.<AddDatabase>b__4()
+
+Last Menu Path: 
+1) Programs
+2) Customers
+
+Application Callstack:
+Show Customers (P#3) - Northwind.Customers.ShowCustomers
+
+Open database connections:
+NORTHWIND - NORTHWIND Datasource=nivatstdb;Catalog=Northwind;User=nvausr18
+
+Northwind Version: 4.6.0.33985
+Firefly Version: 4.6.0.33985
+
+
