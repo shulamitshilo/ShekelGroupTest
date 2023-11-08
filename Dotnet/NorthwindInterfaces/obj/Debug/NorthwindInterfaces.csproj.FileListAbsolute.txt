@@ -1,0 +1,8 @@
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindInterfaces.xml
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindInterfaces.dll
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindInterfaces.pdb
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csprojAssemblyReference.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CoreCompileInputs.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CopyComplete
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb
