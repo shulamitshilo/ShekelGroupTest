@@ -8,3 +8,13 @@ d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindB
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.CopyComplete
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.dll
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.pdb
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csProj.AssemblyReference.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindBase\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csProj.GenerateResource.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csProj.CoreCompileInputs.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\NorthwindBase.xml
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\NorthwindBase.dll
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\NorthwindBase.pdb
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csProj.CopyComplete
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.dll
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.pdb

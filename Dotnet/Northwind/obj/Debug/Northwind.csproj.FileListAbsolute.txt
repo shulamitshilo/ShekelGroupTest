@@ -26,3 +26,14 @@ d:\northwindTraining\CustomerMigration\Dotnet\Northwind\obj\Debug\Northwind.pdb
 \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Shekel Test\Dotnet\Northwind\obj\Debug\Northwind.csProj.CopyComplete
 \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Shekel Test\Dotnet\Northwind\obj\Debug\Northwind.exe
 \\Shekelgs\Users Documents\shoshanakr\My Documents\Niva test\Shekel Test\Dotnet\Northwind\obj\Debug\Northwind.pdb
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.csProj.AssemblyReference.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.Test.Views.ShowProductsWithCView.resources
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.Views.ApplicationMdi.resources
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.csProj.GenerateResource.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.csProj.CoreCompileInputs.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\Northwind.ini
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\Northwind.exe
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\Northwind.pdb
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.csProj.CopyComplete
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.exe
+C:\Users\שולמית שילו\source\repos\test\Dotnet\Northwind\obj\Debug\Northwind.pdb

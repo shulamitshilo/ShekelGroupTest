@@ -41,16 +41,7 @@ namespace Northwind.Views
                     , new ManagedCommand("Set to &NULL", Command.SetFocusedControlValueToNull)
                     , new Separator()
                     , new MenuEntry("&VCR")
-                    #region items
-                    {
-                        new ManagedCommand("Begin Table", Command.GoToFirstRow){ Image = Properties.Resources.First, ToolBarGroup = toolbarGroup4 }
-                        , new ManagedCommand("Previous Screen", Command.GoToPreviousPage){ Image = Properties.Resources.PageUp, ToolBarGroup = toolbarGroup4 }
-                        , new ManagedCommand("Previous Row", Command.GoToPreviousRow){ Image = Properties.Resources.Previous, ToolBarGroup = toolbarGroup4 }
-                        , new ManagedCommand("Next Row", Command.GoToNextRow){ Image = Properties.Resources.Next, ToolBarGroup = toolbarGroup4 }
-                        , new ManagedCommand("Next Screen", Command.GoToNextPage){ Image = Properties.Resources.PageDown, ToolBarGroup = toolbarGroup4 }
-                        , new ManagedCommand("End Table", Command.GoToLastRow){ Image = Properties.Resources.Last, ToolBarGroup = toolbarGroup4 }
-                    }
-                    #endregion
+               
                 }
                 #endregion
                 , new MenuEntry("&Options")
@@ -92,6 +83,8 @@ namespace Northwind.Views
                     , new RaiseCommand("&About ", ENV.Commands.About)
                 }
                 #endregion
+                , new MenuEntry("Test", () => Create<Test.ShowProductsWithC>().Run()) { CloseActiveControllers = true }
+
             );
         }
     }

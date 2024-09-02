@@ -6,3 +6,11 @@ d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\Nort
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csproj.CopyComplete
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
 d:\northwindTraining\CustomerMigration\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csProj.AssemblyReference.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csProj.CoreCompileInputs.cache
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\NorthwindInterfaces.xml
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\NorthwindInterfaces.dll
+C:\Users\שולמית שילו\source\repos\test\Dotnet\bin\NorthwindInterfaces.pdb
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.csProj.CopyComplete
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.dll
+C:\Users\שולמית שילו\source\repos\test\Dotnet\NorthwindInterfaces\obj\Debug\NorthwindInterfaces.pdb
